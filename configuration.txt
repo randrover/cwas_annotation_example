@@ -1,0 +1,12 @@
+ANNOTATION_DATA_DIR=/content/cwas_annotation_example
+GENE_MATRIX=gene_matrix.txt
+ANNOTATION_KEY_CONFIG=annotation_keys.yaml
+VEP=/usr/local/bin/vep
+VEP_CACHE_DIR=/content/cwas_annotation_example/.vep
+VEP_CONSERVATION_FILE=loftee.sql
+VEP_LOFTEE=Plugins/loftee
+VEP_HUMAN_ANCESTOR_FA=human_ancestor.fa.gz
+VEP_GERP_BIGWIG=gerp_conservation_scores.homo_sapiens.GRCh38.bw
+VEP_MIS_DB=MPC_hg38.vcf.bgz
+VEP_MIS_INFO_KEY=MPC
+VEP_MIS_THRES=2

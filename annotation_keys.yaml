@@ -1,0 +1,23 @@
+functional_score:
+  vertebrate.phastCons46way.hg19ToHg38.over02.bed.gz: phastCons46way
+  vertebrate.phyloP46way.hg19ToHg38.over2.bed.gz: phyloP46way
+functional_annotation:
+  ChmmState15.E1.Brain.hg19to38.sorted.bed.gz: ChmE1 
+  ChmmState15.E10.Brain.hg19to38.sorted.bed.gz: ChmE10  
+  ChmmState15.E11.Brain.hg19to38.sorted.bed.gz: ChmE11 
+  ChmmState15.E12.Brain.hg19to38.sorted.bed.gz: ChmE12
+  ChmmState15.E13.Brain.hg19to38.sorted.bed.gz: ChmE13 
+  ChmmState15.E14.Brain.hg19to38.sorted.bed.gz: ChmE14 
+  ChmmState15.E15.Brain.hg19to38.sorted.bed.gz: ChmE15 
+  ChmmState15.E2.Brain.hg19to38.sorted.bed.gz: ChmE2 
+  ChmmState15.E3.Brain.hg19to38.sorted.bed.gz: ChmE3 
+  ChmmState15.E4.Brain.hg19to38.sorted.bed.gz: ChmE4 
+  ChmmState15.E5.Brain.hg19to38.sorted.bed.gz: ChmE5 
+  ChmmState15.E6.Brain.hg19to38.sorted.bed.gz: ChmE6 
+  ChmmState15.E7.Brain.hg19to38.sorted.bed.gz: ChmE7 
+  ChmmState15.E8.Brain.hg19to38.sorted.bed.gz: ChmE8 
+  ChmmState15.E9.Brain.hg19to38.sorted.bed.gz: ChmE9 
+  bamo_EncodeDNaseClustersUCSC.hg19to38.sorted.bed.gz: EncodeDNase
+  bamo_EncodeTfbsClusterV2UCSC.hg19to38.sorted.bed.gz: EncodeTFBS
+  bamo_vistaEnhancerUCSC.hg19to38.sorted.bed.gz: EnhancerVista
+  
